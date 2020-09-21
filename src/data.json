@@ -1,0 +1,1002 @@
+[
+    {
+        "word": "maço",
+        "tabu": [
+            "erkekçe",
+            "ispanyolca",
+            "erkek",
+            "saplama",
+            "testosteron"
+        ]
+    },
+    {
+        "word": "şantaj",
+        "tabu": [
+            "suç",
+            "gasp",
+            "talep",
+            "para",
+            "mektuplar"
+        ]
+    },
+    {
+        "word": "darbe",
+        "tabu": [
+            "rüzgar",
+            "hava",
+            "düdük",
+            "burun",
+            "öpücük"
+        ]
+    },
+    {
+        "word": "yumurtalık",
+        "tabu": [
+            "noel",
+            "yumruk kasesi",
+            "çivili",
+            "kremsi",
+            "brendi"
+        ]
+    },
+    {
+        "word": "ebenezer scrooge",
+        "tabu": [
+            "christmas carol",
+            "karakter",
+            "hayaletler",
+            "tightwad",
+            "humbug!"
+        ]
+    },
+    {
+        "word": "geri dönüşüm",
+        "tabu": [
+            "kullanım",
+            "çöp kutusu",
+            "atık",
+            "kutular",
+            "kağıt"
+        ]
+    },
+    {
+        "word": "dedektif",
+        "tabu": [
+            "araştır",
+            "suç",
+            "ipuçları",
+            "özel göz",
+            "sherlock holmes"
+        ]
+    },
+    {
+        "word": "gökdelen",
+        "tabu": [
+            "imparatorluk",
+            "uzun boylu",
+            "new york şehri",
+            "yüksek katlı",
+            "bina"
+        ]
+    },
+    {
+        "word": "lama",
+        "tabu": [
+            "güney amerika",
+            "alpaka",
+            "canavar",
+            "yük",
+            "dalai"
+        ]
+    },
+    {
+        "word": "müze",
+        "tabu": [
+            "sanat",
+            "resimler",
+            "sergiler",
+            "binalar",
+            "koleksiyon"
+        ]
+    },
+    {
+        "word": "eureka!",
+        "tabu": [
+            "an",
+            "keşif",
+            "bulundu",
+            "bilmek",
+            "vahiy"
+        ]
+    },
+    {
+        "word": "lei",
+        "tabu": [
+            "çiçekler",
+            "kolye",
+            "hawaii",
+            "tebrik",
+            "aloha"
+        ]
+    },
+    {
+        "word": "vegan",
+        "tabu": [
+            "et",
+            "vejetaryen",
+            "yemek",
+            "balık",
+            "diyet"
+        ]
+    },
+    {
+        "word": "pazen",
+        "tabu": [
+            "gömlek",
+            "gecelik",
+            "kumaş",
+            "çarşaf",
+            "pijama"
+        ]
+    },
+    {
+        "word": "el arabası",
+        "tabu": [
+            "yük",
+            "bahçıvan",
+            "çöp",
+            "tutamaklar",
+            "taşıma"
+        ]
+    },
+    {
+        "word": "pez",
+        "tabu": [
+            "şeker",
+            "oyuncak",
+            "dağıtıcı",
+            "aşağı it",
+            "tahsil edilebilir"
+        ]
+    },
+    {
+        "word": "aptal",
+        "tabu": [
+            "punk'd",
+            "nisan",
+            "salak",
+            "hile",
+            "pislik"
+        ]
+    },
+    {
+        "word": "elmas",
+        "tabu": [
+            "beyzbol",
+            "yüzük",
+            "karatlar",
+            "mücevher",
+            "nişan"
+        ]
+    },
+    {
+        "word": "modaya uygun",
+        "tabu": [
+            "heveslenen",
+            "modaya uygun",
+            "şık",
+            "moda",
+            "şık"
+        ]
+    },
+    {
+        "word": "sıvalı",
+        "tabu": [
+            "sarhoş",
+            "sarhoş",
+            "parçalanmış",
+            "duvarlar",
+            "tavan"
+        ]
+    },
+    {
+        "word": "takma ad",
+        "tabu": [
+            "sahte",
+            "ad",
+            "aka",
+            "i.d.",
+            "yanlış"
+        ]
+    },
+    {
+        "word": "chip",
+        "tabu": [
+            "çikolata",
+            "çerez",
+            "patates",
+            "poker",
+            "pentium"
+        ]
+    },
+    {
+        "word": "grand slam",
+        "tabu": [
+            "homer",
+            "bazlar",
+            "yüklü",
+            "4",
+            "çalışır"
+        ]
+    },
+    {
+        "word": "menü",
+        "tabu": [
+            "restoran",
+            "sipariş",
+            "mezeler",
+            "ücret listesi",
+            "fiyatlar"
+        ]
+    },
+    {
+        "word": "midas touch",
+        "tabu": [
+            "altın",
+            "efsane",
+            "para",
+            "zengin",
+            "kolay"
+        ]
+    },
+    {
+        "word": "bunsen brülörü",
+        "tabu": [
+            "ısıtıcı",
+            "laboratuvar",
+            "deney",
+            "gaz",
+            "alev"
+        ]
+    },
+    {
+        "word": "komik kemik",
+        "tabu": [
+            "hit",
+            "elbom",
+            "gövde",
+            "kol",
+            "duygu"
+        ]
+    },
+    {
+        "word": "çöpçü avı",
+        "tabu": [
+            "arama",
+            "oyun",
+            "bul",
+            "yarışma",
+            "nesneler"
+        ]
+    },
+    {
+        "word": "virgül",
+        "tabu": [
+            "noktalama işaretleri",
+            "işaret",
+            "nokta",
+            "dinlenme",
+            "ayrı"
+        ]
+    },
+    {
+        "word": "cep",
+        "tabu": [
+            "saat",
+            "el",
+            "pantolon",
+            "pantolon",
+            "bilardo masası"
+        ]
+    },
+    {
+        "word": "panda",
+        "tabu": [
+            "ayı",
+            "siyah-beyaz",
+            "çin",
+            "bambu",
+            "hayvanat bahçesi"
+        ]
+    },
+    {
+        "word": "dakika",
+        "tabu": [
+            "60",
+            "saniye",
+            "saat",
+            "zaman",
+            "toplantı"
+        ]
+    },
+    {
+        "word": "r.s.v.p.",
+        "tabu": [
+            "davet",
+            "yanıtla",
+            "yanıtla",
+            "taraf",
+            "geliyor"
+        ]
+    },
+    {
+        "word": "taç",
+        "tabu": [
+            "taç",
+            "mücevherli",
+            "kafa",
+            "elbise",
+            "bayan evreni"
+        ]
+    },
+    {
+        "word": "gargara",
+        "tabu": [
+            "durulama",
+            "gargara",
+            "fırça",
+            "dişler",
+            "nefes"
+        ]
+    },
+    {
+        "word": "jackhammer",
+        "tabu": [
+            "matkap",
+            "ayrılma",
+            "kaldırım",
+            "inşaat",
+            "kaya"
+        ]
+    },
+    {
+        "word": "beşgen",
+        "tabu": [
+            "5",
+            "taraflar",
+            "ofis binası",
+            "washington dc",
+            "savunma"
+        ]
+    },
+    {
+        "word": "parmak arası terlik",
+        "tabu": [
+            "sandalet",
+            "kayış",
+            "ayak parmakları",
+            "plaj",
+            "politikacı"
+        ]
+    },
+    {
+        "word": "fısıltı",
+        "tabu": [
+            "konuş",
+            "hafifçe",
+            "kulak",
+            "ses",
+            "bağır"
+        ]
+    },
+    {
+        "word": "atlıkarınca",
+        "tabu": [
+            "atlıkarınca",
+            "dönüş",
+            "atlar",
+            "kutup",
+            "yukarı ve aşağı"
+        ]
+    },
+    {
+        "word": "kara at",
+        "tabu": [
+            "beklenmedik",
+            "kazanan",
+            "sürpriz",
+            "arkada",
+            "şans"
+        ]
+    },
+    {
+        "word": "howdy",
+        "tabu": [
+            "merhaba!",
+            "merhaba!",
+            "tebrik",
+            "kovboy",
+            "doody"
+        ]
+    },
+    {
+        "word": "big ben",
+        "tabu": [
+            "londra",
+            "parlamento",
+            "zil",
+            "saat",
+            "zaman"
+        ]
+    },
+    {
+        "word": "slip",
+        "tabu": [
+            "pembe",
+            "işten çıkarıldı",
+            "freudyen",
+            "hata",
+            "iç çamaşırı"
+        ]
+    },
+    {
+        "word": "canvas",
+        "tabu": [
+            "tent",
+            "sail",
+            "cloth",
+            "bag",
+            "sneakers"
+        ]
+    },
+    {
+        "word": "yalan detektörü",
+        "tabu": [
+            "test",
+            "polis",
+            "evet",
+            "hayır",
+            "yalan makinesi"
+        ]
+    },
+    {
+        "word": "gülmek",
+        "tabu": [
+            "komik",
+            "ha-ha",
+            "kıkırdamak",
+            "kıkırdamak",
+            "lol"
+        ]
+    },
+    {
+        "word": "tükürmek",
+        "tabu": [
+            "tükürük",
+            "rotisserie",
+            "saçmalamak",
+            "balgam çıkarma",
+            "ağız"
+        ]
+    },
+    {
+        "word": "çan kulesi",
+        "tabu": [
+            "kilise",
+            "sivri",
+            "kule",
+            "çan",
+            "üst"
+        ]
+    },
+    {
+        "word": "duş",
+        "tabu": [
+            "banyo",
+            "gelin",
+            "su",
+            "temiz",
+            "nisan"
+        ]
+    },
+    {
+        "word": "kırmızı ringa balığı",
+        "tabu": [
+            "saptırma",
+            "tuzak",
+            "eğri topu",
+            "hile",
+            "sahte"
+        ]
+    },
+    {
+        "word": "yarı",
+        "tabu": [
+            "kamyon",
+            "iki nokta",
+            "daire",
+            "iletken",
+            "otomatik"
+        ]
+    },
+    {
+        "word": "banjo",
+        "tabu": [
+            "müzik",
+            "dixieland",
+            "bluegrass",
+            "strings",
+            "strum"
+        ]
+    },
+    {
+        "word": "diş perisi",
+        "tabu": [
+            "yatak",
+            "yastık",
+            "para",
+            "inandırmak",
+            "gece"
+        ]
+    },
+    {
+        "word": "acımasız kardeşler",
+        "tabu": [
+            "masallar",
+            "alman",
+            "kardeşler",
+            "yazarlar",
+            "hikaye anlatıcıları"
+        ]
+    },
+    {
+        "word": "öksürük damlası",
+        "tabu": [
+            "lorenge",
+            "boğaz",
+            "salonlar",
+            "boğaz",
+            "emmek"
+        ]
+    },
+    {
+        "word": "bakır",
+        "tabu": [
+            "kuruş",
+            "borular",
+            "metal",
+            "madeni para",
+            "lincoln"
+        ]
+    },
+    {
+        "word": "doldurma",
+        "tabu": [
+            "diş",
+            "boşluk",
+            "diş hekimi",
+            "krem",
+            "oreo"
+        ]
+    },
+    {
+        "word": "anahtar",
+        "tabu": [
+            "kapı",
+            "açık",
+            "araba",
+            "kilit",
+            "piyano"
+        ]
+    },
+    {
+        "word": "parkmetre",
+        "tabu": [
+            "araba",
+            "kaldırım",
+            "makine",
+            "yuva",
+            "çeyrekler"
+        ]
+    },
+    {
+        "word": "sfenks",
+        "tabu": [
+            "kocaman",
+            "heykel",
+            "piramitler",
+            "adam",
+            "aslan"
+        ]
+    },
+    {
+        "word": "kukla",
+        "tabu": [
+            "teller",
+            "parmak",
+            "kukla",
+            "tahta",
+            "pinokyo"
+        ]
+    },
+    {
+        "word": "guru",
+        "tabu": [
+            "hindu",
+            "bilge",
+            "manevi",
+            "öğretmen",
+            "adama git"
+        ]
+    },
+    {
+        "word": "thomas edison",
+        "tabu": [
+            "ampul",
+            "elektrik",
+            "mucit",
+            "fonograf",
+            "filmler"
+        ]
+    },
+    {
+        "word": "yetişkin",
+        "tabu": [
+            "yetişkin",
+            "olgun",
+            "eski",
+            "çocuk",
+            "x-dereceli"
+        ]
+    },
+    {
+        "word": "batik",
+        "tabu": [
+            "t-shirt",
+            "hippi",
+            "desen",
+            "psychadelic",
+            "renkler"
+        ]
+    },
+    {
+        "word": "zehirli sarmaşık",
+        "tabu": [
+            "kaşıntı",
+            "bitki",
+            "döküntü",
+            "çizik",
+            "yapraklar"
+        ]
+    },
+    {
+        "word": "ücretli giriş",
+        "tabu": [
+            "otoyol",
+            "ödeme",
+            "görevli",
+            "madeni paralar",
+            "bilet"
+        ]
+    },
+    {
+        "word": "dr. jekyll",
+        "tabu": [
+            "mr. hyde",
+            "robert louis stevenson",
+            "bölünmüş kişilik",
+            "iyi",
+            "kötü"
+        ]
+    },
+    {
+        "word": "okul otobüsü",
+        "tabu": [
+            "sarı",
+            "şöför",
+            "almak",
+            "araç",
+            "çocuklar"
+        ]
+    },
+    {
+        "word": "dışkı güvercini",
+        "tabu": [
+            "düdük üfleyici",
+            "çukur",
+            "tattletale",
+            "teslim et",
+            "bilgilendirici"
+        ]
+    },
+    {
+        "word": "kolezyum",
+        "tabu": [
+            "arena",
+            "italya",
+            "gladyatörler",
+            "nero",
+            "yaşasın"
+        ]
+    },
+    {
+        "word": "boa",
+        "tabu": [
+            "yılan",
+            "bobin",
+            "sıkıcı",
+            "tüylü",
+            "eşarp"
+        ]
+    },
+    {
+        "word": "bulaştırmak",
+        "tabu": [
+            "kar",
+            "yağmur",
+            "hava durumu",
+            "virüs",
+            "bakteri"
+        ]
+    },
+    {
+        "word": "duvar kağıdı",
+        "tabu": [
+            "yapıştır",
+            "asmak",
+            "rulo",
+            "şerit",
+            "boya"
+        ]
+    },
+    {
+        "word": "big ten",
+        "tabu": [
+            "orta batı",
+            "eyalet",
+            "üniversiteler",
+            "grup",
+            "rekabet"
+        ]
+    },
+    {
+        "word": "tebrik kartı",
+        "tabu": [
+            "hallmark",
+            "mesaj",
+            "kafiye",
+            "fırsat",
+            "eczane"
+        ]
+    },
+    {
+        "word": "jet lag",
+        "tabu": [
+            "air",
+            "yorgun",
+            "travel",
+            "time",
+            "adjust"
+        ]
+    },
+    {
+        "word": "kelle avcısı",
+        "tabu": [
+            "iş",
+            "işveren",
+            "bul",
+            "yamyam",
+            "küçülmüş"
+        ]
+    },
+    {
+        "word": "jingle",
+        "tabu": [
+            "bells",
+            "ring",
+            "sleigh",
+            "horse",
+            "song"
+        ]
+    },
+    {
+        "word": "poker",
+        "tabu": [
+            "kart",
+            "el",
+            "teksas hold'em",
+            "oyun",
+            "bahis"
+        ]
+    },
+    {
+        "word": "paul revere",
+        "tabu": [
+            "binmek",
+            "uyarı",
+            "ingiliz",
+            "geliyor",
+            "devrim"
+        ]
+    },
+    {
+        "word": "martı",
+        "tabu": [
+            "kuş",
+            "plaj",
+            "okyanus",
+            "kanatlar",
+            "düzenli depolama"
+        ]
+    },
+    {
+        "word": "çirkin yaratık",
+        "tabu": [
+            "oyma",
+            "binalar",
+            "grotesk",
+            "canavarlar",
+            "süsleme"
+        ]
+    },
+    {
+        "word": "ahtapot",
+        "tabu": [
+            "tentacles",
+            "ocean",
+            "arms",
+            "8",
+            "squid"
+        ]
+    },
+    {
+        "word": "hayal kur",
+        "tabu": [
+            "düşün",
+            "uyku",
+            "hayal",
+            "sıkılmış",
+            "zihin"
+        ]
+    },
+    {
+        "word": "tanga",
+        "tabu": [
+            "iç çamaşırı",
+            "eksik",
+            "popo",
+            "bikini",
+            "mayo"
+        ]
+    },
+    {
+        "word": "fal kurabiyesi",
+        "tabu": [
+            "tavsiye",
+            "mesaj",
+            "çince",
+            "restoran",
+            "tahmin"
+        ]
+    },
+    {
+        "word": "krikolar",
+        "tabu": [
+            "oyun taşları",
+            "metal",
+            "puanlar",
+            "lastik top",
+            "alma"
+        ]
+    },
+    {
+        "word": "tiffany",
+        "tabu": [
+            "mücevher",
+            "mağaza",
+            "beşinci cadde",
+            "kahvaltı",
+            "lamba"
+        ]
+    },
+    {
+        "word": "öğrenci",
+        "tabu": [
+            "öğrenci",
+            "sınıf",
+            "okul",
+            "göz",
+            "dilate"
+        ]
+    },
+    {
+        "word": "yak",
+        "tabu": [
+            "ox",
+            "tibet",
+            "chat",
+            "blab",
+            "gab"
+        ]
+    },
+    {
+        "word": "ninni",
+        "tabu": [
+            "bebek",
+            "uyku",
+            "beşik",
+            "şarkı",
+            "kaya"
+        ]
+    },
+    {
+        "word": "ölçek",
+        "tabu": [
+            "tartmak",
+            "müzikal",
+            "do re mi",
+            "balık",
+            "daha zengin"
+        ]
+    },
+    {
+        "word": "bazuka",
+        "tabu": [
+            "roket",
+            "başlatıcı",
+            "savaş",
+            "sakız",
+            "çizgi roman"
+        ]
+    },
+    {
+        "word": "liberty bell",
+        "tabu": [
+            "ring",
+            "crack",
+            "freedom",
+            "america",
+            "symbol"
+        ]
+    },
+    {
+        "word": "cameo",
+        "tabu": [
+            "mücevher",
+            "oyulmuş",
+            "profil",
+            "küçük",
+            "rol"
+        ]
+    },
+    {
+        "word": "kredi",
+        "tabu": [
+            "kart",
+            "para",
+            "banka",
+            "vize",
+            "usta"
+        ]
+    },
+    {
+        "word": "boşluk",
+        "tabu": [
+            "nesil",
+            "kot pantolon",
+            "eski donanma",
+            "mağaza",
+            "alışveriş merkezi"
+        ]
+    },
+    {
+        "word": "kahverengi burun",
+        "tabu": [
+            "daha düz",
+            "bootlick",
+            "patron",
+            "emmek",
+            "evet-adam"
+        ]
+    }
+]
